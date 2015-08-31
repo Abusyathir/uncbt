@@ -1,0 +1,124 @@
+body{
+	background: #e9f6fd; /* Old browsers */
+}
+#header--{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#7abcff+18,60abf8+48,4096ee+100 */
+	background: #7abcff; /* Old browsers */
+	background: -moz-linear-gradient(top,  #7abcff 18%, #60abf8 48%, #4096ee 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(18%,#7abcff), color-stop(48%,#60abf8), color-stop(100%,#4096ee)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #7abcff 18%,#60abf8 48%,#4096ee 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #7abcff 18%,#60abf8 48%,#4096ee 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #7abcff 18%,#60abf8 48%,#4096ee 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #7abcff 18%,#60abf8 48%,#4096ee 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7abcff', endColorstr='#4096ee',GradientType=0 ); /* IE6-9 */
+}
+.a-header{
+	color:yellow;
+}
+#content, #infopeserta, #test_content{
+	background: #ffffff;
+}
+.table-login{
+	margin:20px auto; 
+	width:450px;
+	border-radius:6px;
+}
+.table-login th{
+	text-align:center;
+}
+#footer-login{
+	padding-top:40px;
+	text-align:center;
+	height:100px;
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+1,e5e5e5+76 */
+	background: #ffffff; /* Old browsers */
+	background: -moz-linear-gradient(top,  #ffffff 1%, #e5e5e5 76%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#ffffff), color-stop(76%,#e5e5e5)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #ffffff 1%,#e5e5e5 76%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ffffff 1%,#e5e5e5 76%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #ffffff 1%,#e5e5e5 76%); /* IE10+ */
+	background: linear-gradient(to bottom,  #ffffff 1%,#e5e5e5 76%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#e5e5e5',GradientType=0 ); /* IE6-9 */
+
+}
+#welcome{
+	border-radius:4px;
+	margin-top:20px;
+	min-height:478px;
+}
+.mbottom-5{
+	margin-bottom:5px;
+}
+#content_mapel{
+	min-height:498px;
+	padding-top:10px;
+}
+#infopeserta{
+	padding:4px;
+	margin-bottom:8px;
+}
+#content_mapel > div{
+	border:solid 1px #ccc;
+	border-radius:4px;
+}
+#content_mapel_soal{
+	padding: 0px;
+}
+
+#content_mapel_soal > div{
+	border:solid 1px #ccc;
+	border-radius:4px;
+}
+
+#content_mapel  table{
+	padding:4px;
+}
+#test_content > p.rightp {
+	border-bottom:solid 1px #ccc;
+	padding:8px;
+	text-align:right;
+}
+
+#test_number{
+	padding:10px 0px 0px 10px;
+	min-height:60px;
+}
+#test_number ul{
+	list-style:none;
+	border:solid 0px red;
+	padding-left:10px;
+}
+#test_number li{
+	list-style:none;
+	border:solid 0px #ff0;
+	/*margin-right:15px;*/
+	font-weight:bold;
+}
+
+#soal_content{
+	min-height:200px;
+	border-bottom:solid 1px #ccc;
+	overflow:auto;
+}
+#soal_content ul{
+	padding:0px;
+	min-height:190px;
+}
+#soal_content li{
+	list-style:none;
+	float:left;
+	font-size:12px;
+}
+#jawaban_content{
+	min-height:100px;
+	border-bottom:solid 1px #ccc;
+}
+#soal_footer{
+	margin-top:8px;
+}
+#soal_footer p{
+	text-align:right;
+}
+#soal_footer p > button{
+	min-width:50px;
+}
